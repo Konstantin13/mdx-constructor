@@ -8,16 +8,6 @@ use MDX\DataTypes\Range;
 use MDX\DataTypes\NoneEmpty;
 use MDX\DataTypes\Cross;
 
-//include "MDX\MDX.php";
-//include "MDX\DataTypes\Member.php";
-//include "MDX\DataTypes\Cross.php";
-//include "MDX\DataTypes\NoneEmpty.php";
-//include "MDX\DataTypes\Range.php";
-//include "MDX\DataTypes\Set.php";
-//include "MDX\DataTypes\Turple.php";
-//include "MDX\ParserQuery.php";
-//include "MDX\BuilderQuery.php";
-
 
 //	WITH SET MySetName AS {[Measures].[Amount], [Measures].[Rest]}
 //	SELECT
