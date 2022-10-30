@@ -1,6 +1,6 @@
 <?php
 
-namespace konstantin13\MDX;
+namespace Konstantin13\MDX;
 
 class ParserQuery{
 		

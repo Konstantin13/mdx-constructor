@@ -1,9 +1,9 @@
 <?php
 
-namespace konstantin13\MDX;
+namespace Konstantin13\MDX;
 
-use MDX\ParserQuery;
-use MDX\BuilderQuery;
+use Konstantin13\MDX\ParserQuery;
+use Konstantin13\MDX\BuilderQuery;
 
 class MDX{
 		
