@@ -1,0 +1,17 @@
+{
+    "name": "konstantin13/mdx-constructor",
+    "description": "MDX constructor",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Konstantin13\\MDX\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Konstantin13"
+        }
+    ],
+    "minimum-stability": "dev"
+}
