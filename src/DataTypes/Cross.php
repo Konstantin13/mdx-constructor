@@ -1,9 +1,9 @@
 <?php
 
-namespace MDX\DataTypes;
+namespace konstantin13\MDX\DataTypes;
 
 use Exception;
-use MDX\ParserQuery;
+use konstantin13\MDX\ParserQuery;
 
 /*
 	syntax: [Base, DataType, ...]

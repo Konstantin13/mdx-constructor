@@ -1,8 +1,8 @@
 <?php
 
-namespace MDX\DataTypes;
+namespace konstantin13\MDX\DataTypes;
 
-use MDX\ParserQuery;
+use konstantin13\MDX\ParserQuery;
 use Exception;
 
 class Range{
