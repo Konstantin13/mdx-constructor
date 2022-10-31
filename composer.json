@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Konstantin13\\MdxConstructor\\": "src/"
+            "Konstantin13\\MDX\\": "src/"
         }
     },
     "authors": [
