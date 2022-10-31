@@ -2,15 +2,17 @@
     "name": "konstantin13/mdx-constructor",
     "description": "MDX constructor",
     "type": "library",
-    "require": {},
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Konstantin13\\MDX\\": "src/"
+            "Konstantin13\\MdxConstructor\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Konstantin13"
+            "name": "Konstantin13",
+            "email": "sarapulov-k@mail.ru"
         }
-    ]
+    ],
+    "require": {}
 }
