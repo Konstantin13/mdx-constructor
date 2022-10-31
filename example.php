@@ -1,13 +1,14 @@
 <?php
 
-use MDX\MDX;
-use MDX\DataTypes\Member;
-use MDX\DataTypes\Turple;
-use MDX\DataTypes\Set;
-use MDX\DataTypes\Range;
-use MDX\DataTypes\NoneEmpty;
-use MDX\DataTypes\Cross;
+use Konstantin13\MDX\MDX;
+use Konstantin13\MDX\DataTypes\Member;
+use Konstantin13\MDX\DataTypes\Turple;
+use Konstantin13\MDX\DataTypes\Set;
+use Konstantin13\MDX\DataTypes\Range;
+use Konstantin13\MDX\DataTypes\NoneEmpty;
+use Konstantin13\MDX\DataTypes\Cross;
 
+include "vendor/autoload.php";
 
 //	WITH SET MySetName AS {[Measures].[Amount], [Measures].[Rest]}
 //	SELECT
@@ -96,3 +97,4 @@ $query = MDX::select()
 		})
 		->get();
 		
+var_dump($query);
