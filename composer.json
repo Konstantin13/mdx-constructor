@@ -14,5 +14,6 @@
             "email": "sarapulov-k@mail.ru"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
