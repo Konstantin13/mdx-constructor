@@ -1,6 +1,6 @@
 # MDX CONSTRUCTOR
 
-installation - `composer require konstantin13/mdx-constructor`
+installation - `composer require konstantin13/mdx-constructor:dev-master`
 
 ## Instruction
 
